@@ -1,0 +1,62 @@
+table{
+    margin: 10px;
+}
+.left{
+    text-align: left;
+}
+.sport{
+    margin: auto;
+}
+.ad{
+    margin-left: auto;
+    height: 150px;
+    float: right;
+    margin: 7px 0 7px 7px;
+}
+.center{
+    text-align: center;
+}
+.header{
+    background: url(back.jpg);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.picture{
+    text-align: center;
+    background: url(paper.jpg);
+    padding: 10px;
+    width: 120px;
+}
+.note{
+    font-style: italic;
+    color: #800000;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.cesar{
+    background-color: rgb(230, 230, 255);
+    text-align: center;
+    border-color: #CCCCCC;
+    border: 1px;
+}
+.justify {
+    text-align: justify;
+  }
+.leftimg {
+float:left; 
+margin: 7px 7px 7px 0; 
+}
+.rightimg  {
+    float: right;
+    margin: 7px 0 7px 7px;
+}
+.visota{
+    height: 150px;
+}
+h3  {
+    text-indent: 155px;
+}
